@@ -6,6 +6,8 @@ SCIENTIFIC CALCULATOR
 
 
  FEATURES
+
+ 
 1.Basic arithmetic operations: addition, subtraction, multiplication, and division.
 2.Additional functions: square root, exponentiation, sin, cos, tan, and logarithm.
 3.Percentage calculation.
